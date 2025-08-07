@@ -1,0 +1,7 @@
+Python 3
+
+Kali Linux (or any Linux)
+
+Installed pynput library
+
+Basic GitHub setup on Windows for upload
