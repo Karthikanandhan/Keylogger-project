@@ -3,6 +3,7 @@ Project Title: Key logger using Python on Kali Linux
 Project Goal
 To build and run a Python-based keylogger on Kali Linux inside a VMware environment, log all keystrokes, and export the data via HTTP server.
 
+
 Step-1 Open VMware Workstation, start Kali Linux, and update the system (optional but recommended for best performance and security).
 
 Comment - (sudo apt update && sudo apt upgrade -y)
@@ -18,6 +19,7 @@ update – Refreshes the list of available packages and their versions from the 
 upgrade – Installs the latest versions of the packages already on your system.
 
 -y – Automatically says "yes" to all prompts during the upgrade.
+
 
 STEP 2 Install the pynput library, which is used to monitor and record keystrokes in Python.
 
