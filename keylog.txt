@@ -527,14 +527,6 @@ Key.space
 s
 u
 Key.enter
-u
-n
-i
-v
-e
-r
-s
-e
 Key.enter
 Key.ctrl
 c
