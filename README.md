@@ -55,7 +55,7 @@ Pip - It is the package manager for Python that allows you to install libraries 
 
 Step-3 Open your Kali Linux home directory, create a file called keylogger.py using the Nano editor, and paste the code inside.
 
-![Uploading image.png…]()
+(You can find the code in the sourcecode.cpp).
 
 Press Ctrl + O → Enter (to save)
 Press Ctrl + X (to exit)
